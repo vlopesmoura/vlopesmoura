@@ -23,7 +23,7 @@ I’m passionate about designing reliable systems, automating workflows, and ena
 🌱 **Currently Exploring:** Advanced **GitOps workflows** and **serverless computing** with AWS Lambda.
 
 📫 **Let's connect!**
-- [LinkedIn]
+- [LinkedIn] https://www.linkedin.com/in/vlopesmoura/
 - [GitHub]
 💡 “Transforming ideas into automated, scalable, and resilient systems.”
 
