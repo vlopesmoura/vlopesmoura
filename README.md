@@ -24,7 +24,8 @@ I’m passionate about designing reliable systems, automating workflows, and ena
 
 📫 **Let's connect!**
 - [LinkedIn] https://www.linkedin.com/in/vlopesmoura/
-- [GitHub]
+- [GitHub] https://github.com/vlopesmoura/
+  
 💡 “Transforming ideas into automated, scalable, and resilient systems.”
 
 📈 My GitHub stats
