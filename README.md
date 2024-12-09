@@ -25,8 +25,6 @@ I’m passionate about designing reliable systems, automating workflows, and ena
 📫 **Let's connect!**
 - [LinkedIn] https://www.linkedin.com/in/vlopesmoura/
 - [GitHub] https://github.com/vlopesmoura/
-  
-💡 “Transforming ideas into automated, scalable, and resilient systems.”
 
 📈 My GitHub stats
 
@@ -36,3 +34,5 @@ I’m passionate about designing reliable systems, automating workflows, and ena
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=vlopesmoura&theme=tokyonight&hide_border=true" alt="aaronedev's Streak" height="165">
   </p>
 </div>
+
+💡 “Transforming ideas into automated, scalable, and resilient systems.”
